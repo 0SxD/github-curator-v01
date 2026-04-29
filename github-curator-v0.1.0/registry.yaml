@@ -1,0 +1,50 @@
+# registry.yaml
+# Mirrors https://github.com/anthropics/claude-cookbooks/blob/main/registry.yaml
+# and https://github.com/openai/openai-cookbook/blob/main/registry.yaml
+#
+# Each entry references a skill folder. Tags allow filtered renders if this
+# repo is later mirrored to a docs site.
+
+- title: github-curator
+  path: skills/github-curator/SKILL.md
+  date: 2026-04-26
+  authors:
+    - austinbgreen
+  tags:
+    - meta
+    - dogfood
+    - publishing
+    - curation
+
+- title: ingest
+  path: skills/ingest/SKILL.md
+  date: 2026-04-26
+  authors:
+    - austinbgreen
+  tags:
+    - ingestion
+    - gates
+    - rubric
+    - workflow
+
+- title: publish-readiness-rubric
+  path: skills/publish-readiness-rubric/SKILL.md
+  date: 2026-04-26
+  authors:
+    - austinbgreen
+  tags:
+    - rubric
+    - boolean-atomic
+    - criterion-tags
+    - publishing
+
+- title: session-dispatch
+  path: skills/session-dispatch/SKILL.md
+  date: 2026-04-26
+  authors:
+    - austinbgreen
+  tags:
+    - workstreams
+    - handoff
+    - bootstrap
+    - template

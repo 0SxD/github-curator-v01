@@ -1,0 +1,7 @@
+# authors.yaml
+# Mirrors https://github.com/anthropics/claude-cookbooks/blob/main/authors.yaml
+# and https://github.com/openai/openai-cookbook/blob/main/authors.yaml
+
+austinbgreen:
+  name: Austin B. Green
+  website: https://github.com/austinbgreen
