@@ -135,8 +135,8 @@ preserve attribution per Apache 2.0 Section 4.
 
 ## Provenance
 
-Bootstrapped 2026-04-26 by Austin B. Green as the publishable composition
-of the 143 Protocol governance set. Upstream lineage:
+Bootstrapped 2026-04-26 by 0SxD as the publishable composition
+of the system_directive_protocol governance set. Upstream lineage:
 
 - Agent Skills specification: https://agentskills.io/specification
 - AGENTS.md standard: https://agents.md

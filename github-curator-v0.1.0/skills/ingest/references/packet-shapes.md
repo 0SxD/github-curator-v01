@@ -128,7 +128,7 @@ multiple candidate skills)?"
 ## Why not auto-classify
 
 The agent could pick a shape with high statistical confidence and
-move on. The Zero Assumption Mandate (143 Protocol Section 3)
+move on. The Zero Assumption Mandate (system_directive_protocol Section 3)
 forbids it. A wrong shape produces a wrong NORMALIZE strategy,
 which produces a wrong SCORE, which the human will not catch
 because the rubric is mechanical and runs against whatever shape

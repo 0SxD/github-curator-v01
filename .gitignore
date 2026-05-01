@@ -1,0 +1,14 @@
+.env
+.env.*
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+node_modules/
+.claude/
+.DS_Store
+*.log
+*.pkl
+*.joblib
+*.h5
+*.onnx
+*.ckpt

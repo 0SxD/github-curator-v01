@@ -7,7 +7,7 @@ matrix. Loaded on demand by
 ## Source
 
 The evolution rule comes from `pre_submit_gate.md` v1.0 in the
-upstream 143 Protocol governance set, verbatim:
+upstream system_directive_protocol governance set, verbatim:
 
 > Each hard-fail (an artifact that shipped or was about to ship
 > and turned out defective) produces a new rule. Bump version.
@@ -139,7 +139,7 @@ they save in catches.
 
 The Trinity Dialectic 9 cells (in
 `references/trinity-3x3-output.md`) follow a different evolution
-rule. The cells are fixed at 9, derived from 143 Protocol Section
+rule. The cells are fixed at 9, derived from system_directive_protocol Section
 5. The cell *questions* may be refined as the rubric matures, but
 the count of cells does not change. The 3x3 structure is the
 constraint.
@@ -186,7 +186,7 @@ enough), the row is removed. Removal requires:
 ## Provenance
 
 This evolution rule is verbatim derived from `pre_submit_gate.md`
-v1.0 by Austin B. Green. The principle (real failures only, no
+v1.0 by 0SxD. The principle (real failures only, no
 speculation) is invariant. The mechanics (the steps above) are
 specific to this rubric.
 

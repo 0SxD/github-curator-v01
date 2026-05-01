@@ -6,7 +6,7 @@ tags an artifact "run Trinity".
 
 ## Source
 
-The 3x3 matrix is from 143 Protocol Section 5 (the 100% Confidence
+The 3x3 matrix is from system_directive_protocol Section 5 (the 100% Confidence
 Loop and Trinity Dialectic). The matrix decomposes evaluation along
 two axes: paths (Logos, Pathos, Ethos) and kinds (Form, Kind,
 State). Their product is 9 sub-evaluations.
@@ -56,7 +56,7 @@ Verdict: 100% confidence (9 PASS) or BELOW with cell-by-cell repair list.
 
 ## Promotion rule (the rule of three accord)
 
-From 143 Protocol Section 5 verbatim: "Action is only justified
+From system_directive_protocol Section 5 verbatim: "Action is only justified
 when both [Logos and Pathos] are in accord and validated by 9
 sub-evaluators."
 

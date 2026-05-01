@@ -52,7 +52,7 @@ None of the steps mutate state without producing a verification record.
 READ -> WORK -> WRITE -> STOP
 ```
 
-The loop is taken verbatim from 143 Protocol Section 4 (Episodic Runtime
+The loop is taken verbatim from system_directive_protocol Section 4 (Episodic Runtime
 Loop). It is the same loop the `ingest` skill uses on external bundles.
 The point of using the same loop in both places is that this repo is
 auditable by `ingest` itself, the repo IS an external bundle to its own
@@ -192,7 +192,7 @@ the references load on demand.
 
 ## When this skill should fail closed
 
-The Zero Assumption Mandate from 143 Protocol Section 3 is hard. If any
+The Zero Assumption Mandate from system_directive_protocol Section 3 is hard. If any
 of the following is true, this skill stops and asks the human:
 
 1. A `SKILL.md` `name` field does not match the parent directory.
@@ -224,8 +224,8 @@ Loaded on demand, not at activation:
 
 ## Provenance
 
-This SKILL.md was authored 2026-04-26 by Austin B. Green as the first
-publishable composition of the 143 Protocol governance set onto the
+This SKILL.md was authored 2026-04-26 by 0SxD as the first
+publishable composition of the system_directive_protocol governance set onto the
 open Agent Skills standard.
 
 END_GITHUB_CURATOR_SKILL

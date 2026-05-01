@@ -153,7 +153,7 @@ The same input produces the same output. The rubric is reproducible.
 
 For artifacts the human tags "run Trinity" (Greenhouse submission,
 public paper publication, public repo release), this skill also runs
-the 9-cell matrix from 143 Protocol Section 5. The 9 cells are:
+the 9-cell matrix from system_directive_protocol Section 5. The 9 cells are:
 
 | Cell | Question |
 |---|---|
@@ -192,7 +192,7 @@ Loaded on demand, not at activation:
 - `references/scoring-procedure.md` the full mechanical check per row,
   including regex patterns and exact commands.
 - `references/ip-scrub-tiers.md` the tier-1, tier-2, tier-3 IP scrub
-  patterns from the 143 Protocol governance set.
+  patterns from the system_directive_protocol governance set.
 - `references/trinity-3x3-output.md` the 9-cell escalation format.
 - `references/criterion-importance-tags.md` the Essential / Important
   / Optional / Pitfall taxonomy with examples and arXiv lineage.
@@ -201,13 +201,12 @@ Loaded on demand, not at activation:
 
 ## Provenance
 
-This SKILL.md was authored 2026-04-26 by Austin B. Green. The
+This SKILL.md was authored 2026-04-26 by 0SxD. The
 boolean-atomic rubric pattern composes the Rubrics-as-Rewards
 importance taxonomy (arXiv 2507.17746), the OpenRubrics
 hard-rules-vs-principles split (arXiv 2510.07743), the
 HealthBench atomic-criterion approach (`openai/simple-evals`), the
 pre_submit_gate v1.0 four-rule pattern, and the Trinity Dialectic
-3x3 from 143 Protocol Section 5. All authored or composed by Austin
-B. Green; arXiv references are upstream.
+3x3 from system_directive_protocol Section 5. All authored or composed by 0SxD; arXiv references are upstream.
 
 END_PUBLISH_READINESS_RUBRIC_SKILL

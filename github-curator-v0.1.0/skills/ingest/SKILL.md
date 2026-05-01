@@ -23,7 +23,7 @@ canonical shape: a folder named after the skill, containing
 `scripts/`, `assets/`. Anything that does not match the spec must be
 either repaired into spec conformance or quarantined.
 
-The Zero Assumption Mandate from 143 Protocol Section 3 forbids the
+The Zero Assumption Mandate from system_directive_protocol Section 3 forbids the
 agent from inferring missing frontmatter, padding short descriptions,
 or guessing at host compatibility. When information is missing, this
 skill asks the human, using the Socratic Method (max 3 load-bearing
@@ -96,7 +96,7 @@ For spec-foreign packets:
 For each missing or ambiguous field, the skill asks the human a
 load-bearing question. Each question must close a specific gap that
 would otherwise force an assumption. The total per turn is capped at
-3, in line with 143 Protocol's Socratic interaction rule.
+3, in line with system_directive_protocol's Socratic interaction rule.
 
 Common interrogation patterns:
 
@@ -166,7 +166,7 @@ PROMOTE-WITH-WARNING:
 
 If the agent ever finds itself filling in a field on the human's
 behalf without an explicit answer, the skill has failed. The agent
-must STOP and ask. This is verbatim from 143 Protocol Axiom 1:
+must STOP and ask. This is verbatim from system_directive_protocol Axiom 1:
 "Never provide unverified or incorrect assumptions. If uncertain,
 STOP and ask."
 
@@ -211,11 +211,11 @@ Loaded on demand, not at activation:
 
 ## Provenance
 
-This SKILL.md was authored 2026-04-26 by Austin B. Green. The
-ingest pattern composes the Zero Assumption Mandate (143 Protocol
-Section 3), the Socratic Method (143 Protocol interaction rule),
+This SKILL.md was authored 2026-04-26 by 0SxD. The
+ingest pattern composes the Zero Assumption Mandate (system_directive_protocol
+Section 3), the Socratic Method (system_directive_protocol interaction rule),
 the four-gate publish-readiness pattern (pre_submit_gate v1.0
-authored by Austin B. Green), and the open Agent Skills
+authored by 0SxD), and the open Agent Skills
 specification (https://agentskills.io/specification).
 
 END_INGEST_SKILL

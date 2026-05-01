@@ -63,7 +63,7 @@ License Version 2.0", "GNU General Public License", "Creative Commons".
 
 ### Row 6
 The em dash is U+2014, the en dash is U+2013. Both are blocked by
-pre_submit_gate v1.0 rule 3 in the upstream 143 Protocol governance
+pre_submit_gate v1.0 rule 3 in the upstream system_directive_protocol governance
 set. Replacement guidance:
 - U+2014 to comma, semicolon, colon, parentheses, or line break.
 - U+2013 to "to" in date ranges.
@@ -150,7 +150,7 @@ lands on `main`.
 ## Evolution rule
 
 New rows enter the matrix only after a real publish-time failure.
-Speculative rows are forbidden (143 Protocol Axiom 4: "No quick
+Speculative rows are forbidden (system_directive_protocol Axiom 4: "No quick
 fixes"). The procedure to add a row:
 
 1. Document the failure in CHANGELOG.md under Fixed or Security.

@@ -14,9 +14,9 @@ The QUARANTINE verdict is a hard-block. The agent does not promote
 the packet into the canonical `skills/` tree. The packet is moved
 to a quarantine directory with a complete record of the failure.
 
-## The 143 Protocol quarantine rule
+## The system_directive_protocol quarantine rule
 
-From 143 Protocol Section 3 (the Cognitive Mandate):
+From system_directive_protocol Section 3 (the Cognitive Mandate):
 
 > Quarantine protocol: Unverified research or uncertain findings
 > are moved to a "barrier" for screening; they are never promoted

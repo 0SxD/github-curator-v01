@@ -145,7 +145,7 @@ TIER1_PATTERNS=(
   'C:\\\\Users\\\\Austin'
   'sk-or-v1-'
   'sk-ant-api'
-  'austing143[^.]'
+  'Sage[^.]'
   'CCC0x'
   'FxD_build_notes'
   'quant_pipeline_architecture'

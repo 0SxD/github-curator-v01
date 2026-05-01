@@ -14,7 +14,7 @@ properties:
 3. The agent cannot proceed past the current step without the
    answer.
 
-The Socratic interaction rule from 143 Protocol caps questions at
+The Socratic interaction rule from system_directive_protocol caps questions at
 3 per turn. Every question in this bank is load-bearing. Filler
 questions are forbidden.
 

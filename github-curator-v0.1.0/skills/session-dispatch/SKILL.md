@@ -16,7 +16,7 @@ Gem, or a custom GPT.
 
 ## Why this skill exists
 
-Sessions hit context limits. Workstreams sprawl. The 143 Protocol
+Sessions hit context limits. Workstreams sprawl. The system_directive_protocol
 zero-context-persistence rule (Section 2) forbids carrying assumptions
 across sessions. The combination produces a recurring need: at the
 edge of a session, the agent must hand off to a fresh session with
@@ -231,14 +231,14 @@ Loaded on demand, not at activation:
   attachment rules, Claude Code working-directory expectations).
 - `references/handoff-checklist.md` the 12-item pre-emit checklist.
 - `references/canonical-workstream-examples.md` worked examples for
-  the most common workstreams (FATEx archive publish, 143 Protocol
+  the most common workstreams (FATEx archive publish, system_directive_protocol
   diagrams, prompt pack ingest, MNS demo bootstrap).
 
 ## Provenance
 
-This SKILL.md was authored 2026-04-26 by Austin B. Green. The
+This SKILL.md was authored 2026-04-26 by 0SxD. The
 session-dispatch pattern composes the AGENTS.md standard
-(https://agents.md), the 143 Protocol zero-context-persistence rule
+(https://agents.md), the system_directive_protocol zero-context-persistence rule
 (Section 2), the 75% context rule from the broader governance set,
 and the host-neutrality principle from the Agent Skills
 specification (https://agentskills.io/specification).

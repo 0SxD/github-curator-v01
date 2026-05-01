@@ -23,7 +23,7 @@ Keep a Changelog (https://keepachangelog.com/en/1.1.0/) and SemVer
 - This changelog.
 
 ### Provenance
-- 143 Protocol governance set authored by Austin B. Green is the
+- system_directive_protocol governance set authored by 0SxD is the
   upstream source for the four-gate pattern (zero assumption mandate,
   strict source fidelity, quarantine, Trinity Dialectic).
 - Reference implementations consulted during composition:

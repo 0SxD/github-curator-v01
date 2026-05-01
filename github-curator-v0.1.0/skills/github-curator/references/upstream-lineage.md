@@ -39,8 +39,8 @@ can audit each layer.
 
 The four-gate publish-readiness pattern (IP scrub, date consistency,
 no em dashes, PEL verdict) is the pre_submit_gate v1.0 authored by
-Austin B. Green within the 143 Protocol governance set. The 9-cell
-Trinity Dialectic is from 143 Protocol Section 5. The Zero
+0SxD within the system_directive_protocol governance set. The 9-cell
+Trinity Dialectic is from system_directive_protocol Section 5. The Zero
 Assumption Mandate is from Section 3. The READ-WORK-WRITE-STOP loop
 is from Section 4. The Socratic Method (max 3 load-bearing
 questions per turn) is from the interaction rules.
@@ -48,7 +48,7 @@ questions per turn) is from the interaction rules.
 These governance documents are upstream of this bundle. They are
 not copied into the repo verbatim because they contain
 project-specific material (resume canon, IP exclusions specific to
-Austin B. Green's professional history, named-employer NDA flags).
+0SxD's professional history, named-employer NDA flags).
 This repo extracts only the publishable, host-neutral patterns and
 re-grounds them in the open Agent Skills specification.
 

@@ -1,3 +1,7 @@
+> **Status: Evaluation window (private under 0SxD).** This repository is staged
+> for evaluation review. License terms in LICENSE govern; contents may move,
+> change, or be withdrawn. See LICENSE before any use.
+
 # github-curator
 
 A self-evolving GitHub curator. Four composable skills that ingest a
@@ -53,5 +57,5 @@ This repo composes existing standards rather than inventing new ones:
 - Cookbook layout: https://github.com/anthropics/claude-cookbooks
 - Reference skill registry: https://github.com/anthropics/skills
 
-The four-gate publish-readiness pattern is grounded in the 143 Protocol
-governance set authored by Austin B. Green.
+The four-gate publish-readiness pattern is grounded in the system_directive_protocol
+governance set authored by 0SxD.
